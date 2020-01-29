@@ -11,7 +11,7 @@ Well here on r/hackintosh we have a couple requirements from users before postin
 * Read the rules
 * Follow posting format
 
-Problem is many of the visitors here are on mobile where the sidebar is obsucred and difficult to find, so this post will be a starting point for new users.
+Problem is many of the visitors here are on mobile where the sidebar is obsucred and difficult to find, so this post will be a starting point for new users. **This is not a substitute for the other resources**
 
 So how do you actually get started? Well few things:
 * Knowing if your hardware is compatible
@@ -51,6 +51,20 @@ We have a plentiful amount of guides to choose from:
 **AMD Desktops**:
 * [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
    * Clover support has been deprecated on AMD
+   
+> But wait a minuite, what the hell is the difference between OpenCore and the other guides? 
+
+Well with hackintoshes we're currently in the middle of a transition period between 2 boot loaders, OpenCore and Clover. Clover is what most guides online are based off of, but the new shiny toy is OpenCore. So what are the differences and which should you choose for your next build?
+
+* OpenCore requires more work to setup, easier to maintain and is more likely to survive updates. This is thanks to being much more "Mac-like" compared to its predecessors
+* Clover is generally easier to setup, but is much more likely to break with even simple secuirty updates. This is due to a heavily outdated form of kext injection which should've been killed in 10.7. Understand that support will not last forever
+* Much better overal secuirty and better compatibility with newer hardware on OpenCore(many Z390 and X299 boards are unbootable on clover)
+* Better laptop support on Clover as many autopatches are availible, with Opencore you need to run external programs such as [SSDTTime](https://github.com/corpnewt/SSDTTime)
+* More info online for Clover as its been aroud much longer(but also a lot of outdated or outright false info as well), though Opencore Guide's [troubelshooting page](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/troubleshooting/troubleshooting) has made this much easier
+* Future AMD CPU support is directly tied to OpenCore as AMD OSX will not be updating patches for Clover. 10.15.1 is the highest supported OS on Clover while OpenCore supports all versions of it.
+
+So what do you choose?
+
 
 **Deprecated guide**:
 
@@ -85,7 +99,6 @@ And if your questions are still not answered even after a google search, then yo
 **Posting Format**
 
 ```
-Hardware:
 CPU:
 GPU:
 RAM:
