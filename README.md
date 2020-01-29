@@ -6,12 +6,12 @@
 
 Well here on r/hackintosh we have a couple requirements from users before posting:
 * Search before posting
-* Read the sidebar
+* Read the sidebar (About on mobile)
 * Read the [FAQ](https://www.reddit.com/r/hackintosh/wiki/faq)
 * Read the rules
 * Follow posting format
 
-Problem is many of the visitors here are on mobile where the sidebar is obsucred and difficult to find, so this post will be a starting point for new users. **This is not a substitute for the other resources**
+Problem is many of the visitors here are on mobile where the sidebar is obscured and difficult to find, so this post will be a starting point for new users. **This is not a substitute for the other resources**
 
 So how do you actually get started? Well few things:
 * Knowing if your hardware is compatible
