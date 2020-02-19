@@ -92,7 +92,7 @@ And if your questions are still not answered even after a google search, then yo
 * **Search Before Posting**
    * We try to avoid having the same question repeated over and over as this clutters the subreddit
 * **No distro/beast tools**
-   * Don't support such tools, they're harmful and difficult to debug. More info here: [Tonymacx86 Stance](https://github.com/khronokernel/Tonymcx86-stance)
+   * Don't support tools such as Uni/Multibeast, Niresh, they're harmful and difficult to debug. More info here: [Tonymacx86 Stance](https://github.com/khronokernel/Tonymcx86-stance)
 * **No self-promotion**
    * This is a community to learn, not a pay for hack service. Keep talks like that in DMs
 * **No Mac posts**
@@ -114,4 +114,9 @@ What files/config I am using: [Link to cloud host preferable, don't post the ent
 Extra Info: [Add something you need to point out about your setup]
 ```
 
-And reminder, **be as specific as possible in your post**. Please don't say "hack machine borked, how fix" with no other info. This community does want to help you but please try to think from the other perspective of how the helper would feel. It also means users ho had similar issues will be able to throw their 2 cents in
+And reminder, **be as specific as possible in your post**. Please don't say "hack machine borked, how fix" with no other info. This community does want to help you but please try to think from the other perspective of how the helper would feel. It also means users ho had similar issues will be able to throw their 2 cents in.
+
+We also have discord servers to ask help in, same rules apply there so don't think you can get off easy there:
+
+* [r/Hackintosh Paradise](https://discord.gg/Wxam8aH)(Main server, primarily Intel)
+* [AMD OSX Server](https://discord.gg/qudxDed)(Primarily AMD)
